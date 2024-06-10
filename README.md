@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelixWoelove
-- 👀 I’m interested in ~slacking~ coding
+- 👀 I’m interested in ~slacking~ & coding
 - 🌱 I’m currently learning Web Development
 
 - ⚡ Fun fact: the earth is not flat

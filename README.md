@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 - 👋 Hi, I’m @FelixWoelove
 - 👀 I’m interested in ~slacking~ & coding
 - 🌱 I’m currently learning Web Development
